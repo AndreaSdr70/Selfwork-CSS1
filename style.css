@@ -1,0 +1,27 @@
+/* font al tag h1 */
+
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    }
+
+    /* font al tag h2 */
+    h2{
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        color: blue;
+        }
+
+        /* selettore per bady - sfondo*/
+
+    body{
+
+        background-color: aqua;
+    }
+
+    /* selettore per nav - backgroud immage*/
+
+    nav{
+
+        background-image: url(https://picsum.photos/200);
+
+    }
